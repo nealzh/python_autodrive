@@ -1,0 +1,6 @@
+[submodule "lane-detector"]
+	path = lane-detector
+	url = https://github.com/nealzh/lane-detector.git
+[submodule "lanenet-lane-detection"]
+	path = lanenet-lane-detection
+	url = https://github.com/nealzh/lanenet-lane-detection.git
